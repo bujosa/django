@@ -4,13 +4,11 @@
 #
 # Translators:
 # Translators:
-# pjsong <pjsong3101@163.com>, 2017
+# David Bujosa <davidbujosa@gmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: django-helpdesk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-30 03:19+0000\n"
-"PO-Revision-Date: 2017-12-06 08:13+0000\n"
 "Last-Translator: pjsong <pjsong3101@163.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/django-helpdesk/"
 "django-helpdesk/language/zh_CN/)\n"

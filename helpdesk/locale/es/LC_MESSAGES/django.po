@@ -3,16 +3,11 @@
 # This file is distributed under the same license as the django-helpdesk package.
 #
 # Translators:
-# Alberto Gaona <gaona_consulting@yahoo.com>, 2011
-# Antonio Storni <anto987@gmail.com>, 2012
-# Erik Rivera <erik.river@gmail.com>, 2011
-# David Bujosa <davidbujosa@gmail.com>, 2011
+# David Bujosa <davidbujosa@gmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: django-helpdesk\n"
 "Report-Msgid-Bugs-To: git@github.com:bujosa/Django.git"
-"POT-Creation-Date: 2012-08-07 20:40+1000\n"
-"PO-Revision-Date: 2013-04-29 09:18+0000\n"
 "Last-Translator: David Bujosa <davidbujosa@gmail.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/django-helpdesk/language/es/)\n"
 "MIME-Version: 1.0\n"

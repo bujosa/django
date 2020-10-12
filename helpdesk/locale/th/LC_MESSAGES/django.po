@@ -4,13 +4,11 @@
 # 
 # Translators:
 # Translators:
-# Jonathan Barratt <jonathan@the-im.com>, 2015
+# David Bujosa <davidbujosa@gmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: django-helpdesk\n"
 "Report-Msgid-Bugs-To: git@github.com:bujosa/Django.git"
-"POT-Creation-Date: 2014-07-26 14:14+0200\n"
-"PO-Revision-Date: 2015-06-13 06:45+0000\n"
 "Last-Translator: Jonathan Barratt <jonathan@the-im.com>\n"
 "Language-Team: Thai (http://www.transifex.com/rossp/django-helpdesk/language/th/)\n"
 "MIME-Version: 1.0\n"

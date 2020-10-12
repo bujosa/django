@@ -4,17 +4,11 @@
 # 
 # Translators:
 # Translators:
-# Fabian Affolter <fab@fedoraproject.org>, 2013
-# Jannis Leidel <jannis@leidel.info>, 2011
-# Marc-Stefan Cassola <maccesch@web.de>, 2011
-# David Bujosa <davidbujosa@gmail.com>, 2011
-# Horst Gutmann <zerok@zerokspot.com>, 2012
+# David Bujosa <davidbujosa@gmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: django-helpdesk\n"
 "Report-Msgid-Bugs-To: git@github.com:bujosa/Django.git"
-"POT-Creation-Date: 2014-07-26 14:14+0200\n"
-"PO-Revision-Date: 2014-08-01 09:58+0000\n"
 "Last-Translator: David Bujosa <davidbujosa@gmail.com>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/django-helpdesk/language/de/)\n"
 "MIME-Version: 1.0\n"

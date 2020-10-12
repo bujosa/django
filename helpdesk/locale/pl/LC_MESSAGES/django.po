@@ -4,18 +4,11 @@
 # 
 # Translators:
 # Translators:
-# m_aciek <maciej.olko@gmail.com>, 2017
-# Michał Pasternak <michal.dtz@gmail.com>, 2011
-# David Bujosa <davidbujosa@gmail.com>, 2011
-# Tomasz Sanecki <tomasz@sanecki.net>, 2012
-# Wojciech Szymała <wojtek.szymala@gmail.com>, 2018
+# David Bujosa <davidbujosa@gmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: django-helpdesk\n"
 "Report-Msgid-Bugs-To: git@github.com:bujosa/Django.git"
-"POT-Creation-Date: 2014-07-26 14:14+0200\n"
-"PO-Revision-Date: 2018-12-30 14:18+0000\n"
-"Last-Translator: Wojciech Szymała <wojtek.szymala@gmail.com>\n"
 "Language-Team: Polish (http://www.transifex.com/django-helpdesk/django-helpdesk/language/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

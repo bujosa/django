@@ -4,21 +4,11 @@
 #
 # Translators:
 # Translators:
-# Alexandre Papin <papin.alexandre@me.com>, 2013
-# Alex Garel <alex.garel@gmail.com>, 2012
-# Antoine Nguyen <tonio@ngyn.org>, 2014,2016
-# Etienne Desgagné <etienne.desgagne@evimbec.ca>, 2015
-# yaap <gracieux.guillaume@gmail.com>, 2012
-# kolin22 <inactive+kolin22@transifex.com>, 2011
-# Paul Guichon <fsx999@gmail.com>, 2015
-# David Bujosa <davidbujosa@gmail.com>, 2011,2015
+# David Bujosa <davidbujosa@gmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: django-helpdesk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-10 11:34+0200\n"
-"PO-Revision-Date: 2016-06-07 12:22+0000\n"
-"Last-Translator: Antoine Nguyen <tonio@ngyn.org>\n"
 "Language-Team: French (http://www.transifex.com/rossp/django-helpdesk/"
 "language/fr/)\n"
 "Language: fr\n"

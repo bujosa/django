@@ -4,14 +4,10 @@
 #
 # Translators:
 # Translators:
-# jachym <jachym.cepicky@opengeolabs.cz>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: django-helpdesk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-16 18:19+0100\n"
-"PO-Revision-Date: 2020-01-16 18:23+0100\n"
-"Last-Translator: jachym <jachym.cepicky@gmail.com>\n"
 "Language-Team: Czech (http://www.transifex.com/django-helpdesk/django-"
 "helpdesk/language/cs/)\n"
 "Language: cs\n"

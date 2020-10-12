@@ -4,17 +4,11 @@
 #
 # Translators:
 # Translators:
-# Антон Комолов <anton.komolov@gmail.com>, 2011
-# Dmitry Sharavyov <dimsharav@gmail.com>, 2016
-# gorblnu4 <gorblnu4@gmail.com>, 2011
-# David Bujosa <davidbujosa@gmail.com>, 2011
-# Антон Комолов <anton.komolov@gmail.com>, 2011
+# David Bujosa <davidbujosa@gmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: django-helpdesk\n"
 "Report-Msgid-Bugs-To: git@github.com:bujosa/Django.git"
-"POT-Creation-Date: 2017-03-08 21:58+0300\n"
-"PO-Revision-Date: 2016-07-25 22:09+0000\n"
 "Last-Translator: Dmitry Sharavyov <dimsharav@gmail.com>\n"
 "Language-Team: Russian (http://www.transifex.com/rossp/django-helpdesk/"
 "language/ru/)\n"
