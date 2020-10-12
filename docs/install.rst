@@ -30,7 +30,7 @@ Try using ``pip install django-helpdesk``. Go and have a beer to celebrate Pytho
 Checkout ``master`` from git (Cutting Edge)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If you're planning on editing the code or just want to get whatever is the latest and greatest, you can clone the official Git repository with ``git clone git://github.com/django-helpdesk/django-helpdesk.git``. We use the ``master`` branch as our development branch for the next major release of ``django-helpdesk``.
+If you're planning on editing the code or just want to get whatever is the latest and greatest, you can clone the official Git repository with ``git clone git@github.com:bujosa/Django.git``. We use the ``master`` branch as our development branch for the next major release of ``django-helpdesk``.
 
 Copy the ``helpdesk`` folder into your ``PYTHONPATH``.
 

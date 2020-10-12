@@ -1,5 +1,5 @@
 # django-helpdesk English language translation
-# Copyright (C) 2011 Ross Poulton
+# Copyright (C) 2020 Bujosa David
 # This file is distributed under the same license as the django-helpdesk package.
 #
 # Translators:

@@ -1,5 +1,5 @@
 # django-helpdesk English language translation
-# Copyright (C) 2011 Ross Poulton
+# Copyright (C) 2020 Bujosa David
 # This file is distributed under the same license as the django-helpdesk package.
 #
 # Translators:
@@ -7,12 +7,12 @@
 # Антон Комолов <anton.komolov@gmail.com>, 2011
 # Dmitry Sharavyov <dimsharav@gmail.com>, 2016
 # gorblnu4 <gorblnu4@gmail.com>, 2011
-# Ross Poulton <ross@rossp.org>, 2011
+# David Bujosa <davidbujosa@gmail.com>, 2011
 # Антон Комолов <anton.komolov@gmail.com>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: django-helpdesk\n"
-"Report-Msgid-Bugs-To: http://github.com/RossP/django-helpdesk/issues\n"
+"Report-Msgid-Bugs-To: git@github.com:bujosa/Django.git"
 "POT-Creation-Date: 2017-03-08 21:58+0300\n"
 "PO-Revision-Date: 2016-07-25 22:09+0000\n"
 "Last-Translator: Dmitry Sharavyov <dimsharav@gmail.com>\n"

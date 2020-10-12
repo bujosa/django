@@ -3,7 +3,7 @@ License
 
 django-helpdesk is released under the terms of the BSD license. You must agree to these terms before installing or using django-helpdesk.::
 
-    Copyright (c) 2008, Ross Poulton (Trading as Jutda)
+    Copyright (c) 2008, David Bujosa (Trading as Jutda)
     All rights reserved.
 
     Redistribution and use in source and binary forms, with or without modification,
@@ -16,7 +16,7 @@ django-helpdesk is released under the terms of the BSD license. You must agree t
            notice, this list of conditions and the following disclaimer in the
            documentation and/or other materials provided with the distribution.
 
-        3. Neither the name of Ross Poulton, Jutda, nor the names of any
+        3. Neither the name of David Bujosa, Jutda, nor the names of any
            of its contributors may be used to endorse or promote products
            derived from this software without specific prior written permission.
 
