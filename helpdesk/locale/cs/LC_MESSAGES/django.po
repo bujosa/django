@@ -1401,10 +1401,10 @@ msgstr ""
 
 #: third_party/django-helpdesk/helpdesk/templates/helpdesk/attribution.html:6
 msgid ""
-"<a href='https://github.com/django-helpdesk/django-helpdesk'>django-"
+"<a href='https://github.com/bujosa/Django'>django-"
 "helpdesk</a>."
 msgstr ""
-"<a href='https://github.com/django-helpdesk/django-helpdesk'>django-"
+"<a href='https://github.com/bujosa/Django'>django-"
 "helpdesk</a>."
 
 #: third_party/django-helpdesk/helpdesk/templates/helpdesk/base-head.html:14

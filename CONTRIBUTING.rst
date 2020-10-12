@@ -12,7 +12,7 @@ Please read these guidelines to get up to speed quickly. If you have any
 questions, please file an issue ticket on GitHub. Our main project
 repository is available at:
 
-https://github.com/django-helpdesk/django-helpdesk
+https://github.com/bujosa/Django
 
 
 Testing
@@ -121,7 +121,7 @@ Please include tests in the ``tests/`` folder when committing code changes.
 If you have any questions about creating or maintaining proper tests, please
 start a discussion on the GitHub issue tracker at
 
-https://github.com/django-helpdesk/django-helpdesk/issues
+https://github.com/bujosa/Django/issues
 
 
 Ways to Contribute
@@ -139,7 +139,7 @@ More details on each of theses tasks is below.
 If you have any questions on contributing, please start a discussion on
 the GitHub issue tracker at
 
-https://github.com/django-helpdesk/django-helpdesk/issues
+https://github.com/bujosa/Django/issues
 
 
 Translations

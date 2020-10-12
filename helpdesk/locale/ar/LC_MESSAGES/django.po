@@ -977,7 +977,7 @@ msgstr ""
 
 #: templates/helpdesk/attribution.html:2
 msgid ""
-"Powered by <a href='https://github.com/rossp/django-helpdesk'>django-"
+"Powered by <a href='https://github.com/bujosa/Django'>django-"
 "helpdesk</a>."
 msgstr ""
 

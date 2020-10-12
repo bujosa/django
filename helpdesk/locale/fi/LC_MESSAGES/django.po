@@ -1331,9 +1331,9 @@ msgid " (Updated)"
 msgstr "(Päivitetty)"
 
 msgid ""
-"<a href='https://github.com/rossp/django-helpdesk'>django-helpdesk</a>."
+"<a href='https://github.com/bujosa/Django'>django-helpdesk</a>."
 msgstr ""
-"<a href='https://github.com/rossp/django-helpdesk'>django-helpdesk</a> ."
+"<a href='https://github.com/bujosa/Django'>django-helpdesk</a> ."
 
 msgid "Powered by django-helpdesk"
 msgstr "Powered by django-helpdesk"

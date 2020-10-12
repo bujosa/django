@@ -982,9 +982,9 @@ msgstr "(Atualizado)"
 
 #: templates/helpdesk/attribution.html:2
 msgid ""
-"Powered by <a href='https://github.com/rossp/django-helpdesk'>django-"
+"Powered by <a href='https://github.com/bujosa/Django'>django-"
 "helpdesk</a>."
-msgstr "Powered by <a href='https://github.com/rossp/django-helpdesk'>django-helpdesk</a>."
+msgstr "Powered by <a href='https://github.com/bujosa/Django'>django-helpdesk</a>."
 
 #: templates/helpdesk/attribution.html:4
 msgid "For technical support please contact:"

@@ -48,7 +48,7 @@ class GetEmailCommonTests(TestCase):
     def test_email_with_blank_body_and_attachment(self):
         """
         Tests that emails with blank bodies and attachments work.
-        https://github.com/django-helpdesk/django-helpdesk/issues/700
+        https://github.com/bujosa/Django/issues/700
         """
         with open(os.path.join(THIS_DIR, "test_files/blank-body-with-attachment.eml")) as fd:
             test_email = fd.read()
@@ -76,7 +76,7 @@ class GetEmailCommonTests(TestCase):
     def test_email_with_8bit_encoding_and_utf_8(self):
         """
         Tests that emails with 8bit transfer encoding and utf-8 charset
-        https://github.com/django-helpdesk/django-helpdesk/issues/732
+        https://github.com/bujosa/Django/issues/732
         """
         with open(os.path.join(THIS_DIR, "test_files/all-special-chars.eml")) as fd:
             test_email = fd.read()
@@ -544,7 +544,7 @@ class GetEmailParametricTemplate(object):
             ticket1 = get_object_or_404(Ticket, pk=1)
             self.assertEqual(ticket1.ticket_for_url, "QQ-%s" % ticket1.id)
             self.assertEqual(ticket1.title, "example email that crashes django-helpdesk get_email")
-            self.assertEqual(ticket1.description, """hi, thanks for looking into this :)\n\nhttps://github.com/django-helpdesk/django-helpdesk/issues/567#issuecomment-342954233""")
+            self.assertEqual(ticket1.description, """hi, thanks for looking into this :)\n\nhttps://github.com/bujosa/Django/issues/567#issuecomment-342954233""")
             # MIME part should be attached to follow up
             followup1 = get_object_or_404(FollowUp, pk=1)
             self.assertEqual(followup1.ticket.id, 1)

@@ -148,7 +148,7 @@ setup(
     author_email='ross@rossp.org',
     maintainer='Garret Wassermann',
     maintainer_email='gwasser@gmail.com',
-    url='https://github.com/django-helpdesk/django-helpdesk',
+    url='https://github.com/bujosa/Django',
     license='BSD',
     packages=find_packages(),
     package_data=find_package_data("helpdesk", only_in_packages=False),

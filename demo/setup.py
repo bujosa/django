@@ -16,7 +16,7 @@ README = open(os.path.join(here, 'README.rst')).read()
 VERSION = '0.3.0.dev2'
 #VERSION = open(os.path.join(project_root, 'VERSION')).read().strip()
 AUTHOR = 'django-helpdesk team'
-URL = 'https://github.com/django-helpdesk/django-helpdesk'
+URL = 'https://github.com/bujosa/Django'
 CLASSIFIERS = ['Development Status :: 4 - Beta',
                'License :: OSI Approved :: BSD License',
                'Programming Language :: Python :: 3.6',

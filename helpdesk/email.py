@@ -492,7 +492,7 @@ def object_from_message(message, queue, logger):
         if part.get_content_maintype() == 'text' and name is None:
             if part.get_content_subtype() == 'plain':
                 body = part.get_payload(decode=True)
-                # https://github.com/django-helpdesk/django-helpdesk/issues/732
+                # https://github.com/bujosa/Django/issues/732
                 if part['Content-Transfer-Encoding'] == '8bit' and part.get_content_charset() == 'utf-8':
                     body = body.decode('unicode_escape')
                 body = decodeUnknown(part.get_content_charset(), body)

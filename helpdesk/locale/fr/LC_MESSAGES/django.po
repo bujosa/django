@@ -1277,10 +1277,10 @@ msgstr "Dépend du ticket"
 
 #: .\templates\helpdesk\attribution.html:2
 msgid ""
-"<a href='https://github.com/django-helpdesk/django-helpdesk'>django-"
+"<a href='https://github.com/bujosa/Django'>django-"
 "helpdesk</a>."
 msgstr ""
-"<a href='https://github.com/django-helpdesk/django-helpdesk'>django-"
+"<a href='https://github.com/bujosa/Django'>django-"
 "helpdesk</a>."
 
 #: .\templates\helpdesk\base.html:18

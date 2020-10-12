@@ -1087,7 +1087,7 @@ msgstr "อัปเดต/ปรับปรุง"
 
 #: templates/helpdesk/attribution.html:2
 msgid ""
-"<a href='https://github.com/rossp/django-helpdesk'>django-helpdesk</a>."
+"<a href='https://github.com/bujosa/Django'>django-helpdesk</a>."
 msgstr ""
 
 #: templates/helpdesk/base.html:10

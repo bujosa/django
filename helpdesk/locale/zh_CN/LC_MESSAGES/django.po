@@ -1318,12 +1318,12 @@ msgstr "消息"
 #: templates/helpdesk/attribution.html:6
 #, fuzzy
 #| msgid ""
-#| "<a href='https://github.com/rossp/django-helpdesk'>django-helpdesk</a>."
+#| "<a href='https://github.com/bujosa/Django'>django-helpdesk</a>."
 msgid ""
-"<a href='https://github.com/django-helpdesk/django-helpdesk'>django-"
+"<a href='https://github.com/bujosa/Django'>django-"
 "helpdesk</a>."
 msgstr ""
-"<a href='https://github.com/rossp/django-helpdesk'>django-helpdesk</a>."
+"<a href='https://github.com/bujosa/Django'>django-helpdesk</a>."
 
 #: templates/helpdesk/base-head.html:14
 msgid "Powered by django-helpdesk"
